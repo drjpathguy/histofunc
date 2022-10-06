@@ -1,5 +1,6 @@
 # HistoFunc
 ======
+
 Functions to facilitate the development of python algorithms for histology and digital pathology.
 
 Features include:
