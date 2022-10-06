@@ -1,6 +1,14 @@
 # HistoFunc
 ======
 
+
+QuPath
+======
+
+**QuPath is open source software for bioimage analysis**.
+
+
+
 Functions to facilitate the development of python algorithms for histology and digital pathology.
 
 Features include:
